@@ -1,0 +1,25 @@
+body {
+    background-image: url(imge/olivia-rodrigo-thumb-1.jpg);
+    background-size: cover;
+}
+
+h1 {
+    color: white ;
+}
+
+h2 {
+    color:  #f1c40f;
+}
+
+ul {
+    color: white;
+}
+
+h3 {
+    background-color: #f1c40f;
+    border: solid 2px black;
+}
+
+.texto {
+    color: #e74c3c;
+}

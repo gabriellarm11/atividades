@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(129, 2, 248);
+}
+.container-box{
+    background-color: rgb(51, 51, 146);
+    width: 500px;
+    height: 200px;
+    margin: 0 auto; /* centralizando div*/
+}
+.texto{
+    color: white;
+}

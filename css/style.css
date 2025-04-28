@@ -1,0 +1,24 @@
+p {
+    background-color: rgb(119, 0, 255);
+    color: white;
+}
+ 
+div {
+    border: #03045e 5px double;
+}
+
+.texto{
+    font-size: 50px;
+    text-align: center;
+}
+
+section p{
+    background-color: chocolate;
+}
+
+#cabeçalho {
+    background-color: blue;
+    font-size: 100px;
+    width: 500px;
+    height: 600px;
+}
